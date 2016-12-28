@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>smDateTimeRangePicker</artifactId>
-    <version>2.0.7-SNAPSHOT</version>
+    <version>2.0.7</version>
     <name>smDateTimeRangePicker</name>
     <description>Webjar for smDateTimeRangePicker</description>
 
@@ -35,7 +35,7 @@
         <url>http://github.com/webjars/smDateTimeRangePicker</url>
         <connection>scm:git:https://github.com/webjars/smDateTimeRangePicker.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/smDateTimeRangePicker.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>smDateTimeRangePicker-2.0.7</tag>
     </scm>
 
     <dependencies>
